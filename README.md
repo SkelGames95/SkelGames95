@@ -11,11 +11,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | C++
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS 
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Git
-- 🎮 &nbsp; yED Graph Editor | Twine | Canva | Figma | Google Drive as documentation toolset
+💻 &nbsp; Java | Javascript | C++
+🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS 
+🛢 &nbsp; MySQL
+🔧 &nbsp; Git
+🎮 &nbsp; yED Graph Editor | Twine | Canva | Figma | Google Drive as documentation toolset
 <br/><br/>
 
 <h3>📆 Planning Work and Appointments Through:</h3>

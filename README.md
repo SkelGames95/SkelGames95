@@ -1,7 +1,5 @@
 ### Hi there 👋 🤓
 
-/play vuvuzela► 
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 🤔 Always curious about new technologies, developing software solutions, and quick hacks.

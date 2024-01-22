@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 🤔 Always curious about new technologies, developing software solutions, innovative solutions for companies, and quick hacks.<br/>
-📈 Dedicating myself to a long-term commitment to bring a new innovative future to the Italian workplaces.<br/>
+📈 Dedicating myself to a long-term commitment to bring a new innovative future to Italian workplaces.<br/>
 🎓 Studying FullStack Web Development thanks to Develhope SRL Bootcamp.<br/>
 🌱 Currently starting an Internship at DoIT Srl, Fabriano, Italia 💙<br/>
 🎮 Trained in Game & Software Design.
@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-💻 &nbsp; Java | Javascript | C++
-🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS 
-🛢 &nbsp; MySQL
-🔧 &nbsp; Git
+💻 &nbsp; Java | Javascript | C++<br/>
+🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS <br/>
+🛢 &nbsp; MySQL<br/>
+🔧 &nbsp; Git<br/>
 🎮 &nbsp; yED Graph Editor | Twine | Canva | Figma | Google Drive as documentation toolset
 <br/><br/>
 

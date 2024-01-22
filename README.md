@@ -26,7 +26,7 @@ Trello | Calendar | Calendly | Miro | ReMarkable
 <br/><br/>
 
 ⚡ Fun fact: The motto that inspires me the most belongs to the Anime World
-                          ⬇️    ⬇️    ⬇️    ⬇️
+                       <br/>   ⬇️    ⬇️    ⬇️    ⬇️
     <h4> "Massugu jibun no kotoba was magenee. Ore no nindou da!" </h4>
 <br/>
     

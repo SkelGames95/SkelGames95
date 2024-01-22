@@ -1,6 +1,6 @@
 ### Hi there 👋 🤓
 
-► /play vuvuzela
+/play vuvuzela► 
 
 <h3> 👨🏻‍💻 About Me </h3>
 

@@ -20,7 +20,7 @@
 
 <h3>📆 Planning Work and Appointments Through:</h3>
 
-Trello | Calendar | Calendly | Miro | ReMarkable
+- Trello | Calendar | Calendly | Miro | ReMarkable
 <br/><br/>
 
 ⚡ Fun fact: The motto that inspires me the most belongs to the Anime World:

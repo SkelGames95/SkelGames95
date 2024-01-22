@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-🤔 &nbsp; Always curious about new technologies, developing software solutions, and quick hacks.
-📈 &nbsp; Looking forward to a new innovative future for the workplaces here in Italy.
-🎓 &nbsp; Studying FullStack Web Development thanks to Develhope SRL Bootcamp.
-🌱 &nbsp; Currently starting an Internship at DoIT Srl, Fabriano, Italia 💙
-🎮 &nbsp; Trained in Game & Software Design.
+🤔 Always curious about new technologies, developing software solutions, and quick hacks.
+📈 Looking forward to a new innovative future for the workplaces here in Italy.
+🎓 Studying FullStack Web Development thanks to Develhope SRL Bootcamp.
+🌱 Currently starting an Internship at DoIT Srl, Fabriano, Italia 💙
+🎮 Trained in Game & Software Design.
 
 
 <h3>🛠 Tech Stack</h3>

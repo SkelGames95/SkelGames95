@@ -22,9 +22,9 @@
 Trello | Calendar | Calendly | Miro | ReMarkable
 <br/><br/>
 
-⚡ Fun fact: The motto that inspires me the most belongs to the Anime World (Naruto):
-    <h4> "Massugu jibun no kotoba wa magenee. Ore no nindou da!" </h4>
-    "I'll never go back on my words!"
+Fun fact: The motto that inspires me the most belongs to the Anime World (Naruto) ⚡ 
+    <h4> "Massugu jibun no kotoba wa magenee. Ore no nindou da!" </h4> 🍃
+    "I'll never go back on my words!" 👊🏻
 <br/>
     
 - Open for project collaborations, sharing ideas, and more.

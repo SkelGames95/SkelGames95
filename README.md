@@ -20,7 +20,7 @@
 
 <h3>📆 Planning Work and Appointments Through:</h3>
 Trello | Calendar | Calendly | Miro | ReMarkable
-<br/><br/>
+<br/><br/><br/>
 
 Fun fact: The motto that inspires me the most belongs to the Anime World (Naruto) ⚡ 
     <h4> "Massugu jibun no kotoba wa magenee. Ore no nindou da!" </h4> 🍃

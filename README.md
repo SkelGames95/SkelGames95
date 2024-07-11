@@ -36,4 +36,4 @@ Fun fact: The motto that inspires me the most belongs to the Anime World (Naruto
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/pm13365sk/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:polentamarco.dev@gmail.com) 💌
- - Find me on Instagram[IG](https://www.instagram.com/polebit/) 📸
+ - Find me on [Instagram](https://www.instagram.com/polebit/) 📸
